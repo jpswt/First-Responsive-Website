@@ -59,8 +59,7 @@ p {
 
 section {
 	background: white;
-
-	min-height: 400px;
+	min-height: 450px;
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
